@@ -8,7 +8,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4">
-                    <img src="/img/bbb.jpg" alt="">
+                    <img src="/img/book.jpg" alt="">
                 </div>
                 <div class="col-lg-6 offset-lg-1">
                     <form action="{{route('Posts.update',$posts->id)}}" method="post" enctype="multipart/form-data">
